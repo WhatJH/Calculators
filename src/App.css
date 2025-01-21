@@ -11,3 +11,11 @@
     transform: rotate(360deg);
   }
 }
+
+.App .numbers{
+  color: aqua !important;
+}
+
+/* button {
+  all: unset; 
+} 버튼 기본 레이아웃을 없앰 */
